@@ -1,16 +1,16 @@
-# -ADVANCED-ENCRYPTION-TOOL #
+# -ADVANCED-ENCRYPTION-TOOL 
 
- A TOOL TO ENCRYPT AND  DECRYPT FILES USING ADVANCED  ALGORITHMS LIKE AES-256 
+## COMPANY: CODTECH IT SOLUTIONS
 
- NAME : Konatham Chennakesavulu 
- 
-INTERN  ID:CT06DH1266 
+# NAME: THOTI SUMAN
 
- DOMAIN : CYBER SECURITY AND ETHICAL HACKING 
+# INTERN ID:CT06DH1347
 
- DURATION : 6 WEEKS 
+# DOMAIN: Cyber Security & Ethical Hacking
 
- MENTOR : NEELA SANTOSH 
+# DURATION: 6 WEEEKS
+
+# MENTOR:NEELA SANTOSH
 
 ## Overview
 The **Advanced Encryption Tool** is a robust Python-based application designed to encrypt and decrypt files securely using **AES-256 encryption**. This tool ensures data confidentiality by providing a user-friendly interface for protecting sensitive information.
